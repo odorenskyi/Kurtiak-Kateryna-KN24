@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742245785 source:c:\users\stasj\desktop\bmtp_lab8_kurtiak\prj\moduleskurtiak\main.cpp
+	<iostream>
+	<cmath>
+	<stdexcept>
+
