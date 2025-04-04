@@ -5,7 +5,7 @@
 #include "modulesK.h"
 
 int main() {
-system("chcp 65001 > nul");
+
     std::cout << "Куртяк Катерина ©, Усі права захищені." << std::endl;
     double wind_speed;
 
