@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1743778540 source:c:\users\Катерина\desktop\kurtiak-kateryna-kn24\lab09\prj\testdriver\main.cpp
+	<iostream>
+	<cmath>
+	<bitset>
+	"modulesK.h"
+
+1743778679 c:\users\Катерина\desktop\kurtiak-kateryna-kn24\lab08\prj\modulesk.h
+	<string>
+
