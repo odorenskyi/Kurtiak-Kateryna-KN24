@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1744875361 source:c:\users\Катерина\desktop\ооол\kurtiak-kateryna-kn24\lab08\prj\moduleskurtiak\main.cpp
+	<bitset>
+	<iostream>
+	<cmath>
+	<stdexcept>
+	<string>
+	<fstream>
+	<iostream>
+	<cctype>
+	<vector>
+	"ModulesK.h"
+
+1744873845 c:\users\Катерина\desktop\ооол\kurtiak-kateryna-kn24\lab08\prj\modulesk.h
+	<string>
+
