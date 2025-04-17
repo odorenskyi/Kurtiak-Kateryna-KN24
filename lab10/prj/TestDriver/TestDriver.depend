@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1744876102 source:c:\users\Катерина\desktop\ооол\kurtiak-kateryna-kn24\lab10\prj\testdriver\main.cpp
+	"ModulesK.h"
+	<windows.h>
+	<iostream>
+	<string>
+	<fstream>
+
+1744875607 c:\users\Катерина\desktop\ооол\kurtiak-kateryna-kn24\lab08\prj\modulesk.h
+	<string>
+
