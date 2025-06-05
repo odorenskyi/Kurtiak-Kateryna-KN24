@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1749137986 source:c:\users\Катерина\desktop\11\prj\moduleskurtiak\moduleskurtiak.cpp
+	"STRUCT_TYPE_PROJECT_8_H.h"
+	<fstream>
+
+1749136539 c:\users\Катерина\desktop\11\prj\moduleskurtiak\struct_type_project_8_h.h
+	<string>
+	<iostream>
+	<fstream>
+
