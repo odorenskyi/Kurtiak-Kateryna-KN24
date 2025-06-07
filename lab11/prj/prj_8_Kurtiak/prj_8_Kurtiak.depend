@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1749311834 source:c:\users\Катерина\desktop\11.1\prj\prj_8_kurtiak\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<limits>
+	"struct_type_project_8.h"
+	"struct_type_project_Kurtiak.h"
+	"struct_type_project_Ivanov.h"
+	"struct_type_project_Marchenko.h"
+
+1749310411 c:\users\Катерина\desktop\11.1\prj\struct_type_project_8.h
+	<string>
+
+1749310338 c:\users\Катерина\desktop\11.1\prj\libkurtiak\struct_type_project_kurtiak.h
+	"struct_type_project_8.h"
+	<vector>
+
+1749311371 c:\users\Катерина\desktop\11.1\prj\libivanov\struct_type_project_ivanov.h
+	"struct_type_project_8.h"
+
+1749311336 c:\users\Катерина\desktop\11.1\prj\libmarchenko\struct_type_project_marchenko.h
+	"struct_type_project_8.h"
+
